@@ -1,0 +1,1 @@
+choco install slack sourcetree visualstudiocode docker awscli git jdk8 maven minikube kubernetes-cli -y
